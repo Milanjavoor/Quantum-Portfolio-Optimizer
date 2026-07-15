@@ -1,0 +1,19 @@
+Quantum-Portfolio-Optimizer/
+│
+├── QUANTportfolio.py              
+├── portfolio.csv                  
+├── README.md                      
+├── LICENSE                       
+├── requirements.txt               
+├── .gitignore                     
+│
+├── screenshots/
+│   ├── home_screen.png
+│   ├── add_stock.png
+│   ├── optimization_result.png
+│   └── histogram.png
+│
+└── docs/
+    ├── project_report.pdf
+    ├── algorithm_explanation.pdf
+    └── presentation.pptx
