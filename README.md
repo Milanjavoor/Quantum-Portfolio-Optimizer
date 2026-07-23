@@ -20,7 +20,6 @@ Although designed as an educational project, it provides an intuitive graphical 
   * Balanced
   * Conservative
 * 🚀 Built using Qiskit's Aer Simulator
-* 🎓 Designed for beginners learning quantum computing
 
 ---
 
